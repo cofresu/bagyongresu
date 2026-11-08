@@ -963,3 +963,5 @@ class bagyo:
 
 if __name__ == "__main__":
     bagyo()
+    
+    # sige na i-skid mo na
